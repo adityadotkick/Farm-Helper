@@ -1,0 +1,52 @@
+﻿body {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+    transition: top 0.4s, opacity 0.4s;
+    background-color: #198754; /* Bootstrap green */
+}
+
+.navbar-hidden {
+    top: -100px; /* move navbar up */
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 18px;
+}
+
+.navbar-nav .nav-link {
+    color: white !important; /* Initial color white */
+    position: relative;
+    transition: all 0.1s ease; /* Smooth animation */
+    /*padding: 6px 4px;  Nice padding inside link */
+    border-radius: 30px; /* Rounded corners */
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #ffffff !important; /* Keep text white even on hover */
+        border: 1px dashed white; /* Dotted white border */
+        background-color: transparent; /* Transparent background */
+        text-decoration: none; /* No underline */
+        transition: all 0.1s ease; /* Smooth transition */
+    }
+
+/* Footer */
+footer a:hover {
+    text-decoration: underline;
+    color: #d1e7dd; /* Light greenish hover */
+}
+
+
+

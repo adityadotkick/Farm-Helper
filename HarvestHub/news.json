@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Arya Collateral organising a training in mushroom cultivation for farmers",
+    "Description": "Farmers across the country will get to know about mushroom farming as the post-harvest agri-tech player, Arya Collateral is organising a training in mushroom cultivation next Tuesday with the help of expert mushroom cultivator Rajesh Singh.",
+    "Link": "https://economictimes.indiatimes.com/news/economy/agriculture/arya-collateral-organising-a-training-in-mushroom-cultivation-for-farmers/articleshow/83605314.cms",
+    "ImageUrl": "images/news_mushroom.jpg",
+    "Source": "The Economics Times"
+  },
+  {
+    "Title": "Kashmiri saffron prices soar as imports drop, tensions rise",
+    "Description": "The spike isn’t due to poor harvest or declining quality, but a perfect storm of sentiment and supply disruption. Following the recent terror attack in Pahalgam, farmers and traders in the Valley are holding onto their stock, releasing it only at steep premiums and to the highest bidders.",
+    "Link": "https://www.cnbctv18.com/market/commodities/kashmiri-saffron-prices-soar-as-imports-drop-tensions-rise-19598163.htm",
+    "ImageUrl": "images/news_saffron_1.jpg",
+    "Source": "CNBC TV18"
+  },
+  {
+    "Title": "Kashmir’s saffron growers experiment with indoor farming as climate pressures mount",
+    "Description": "This is where most of saffron is farmed in India, the world’s second-largest producer behind Iran of the spice, which costs up to 325,000 rupees ($3,800) a kg (2.2 pounds) because it is so labour-intensive to harvest.",
+    "Link": "https://www.thehindu.com/sci-tech/science/kashmirs-saffron-growers-experiment-with-indoor-farming-as-climate-pressures-mount/article69186874.ece",
+    "ImageUrl": "images/news_saffron_2.jpg",
+    "Source": "The Hindu"
+  },
+  {
+    "Title": "Red gold feat: Inspired by Kashmir, man grows saffron in his Indore house,",
+    "Description": "Indore: A farmer in Indore in Madhya Pradesh has pulled off a remarkable agricultural feat by growing saffron, among the costliest spices in the world and traditionally associated with picturesque Kashmir Valley, in his room.,",
+    "Link": "https://www.deccanherald.com/india/jammu-and-kashmir/red-gold-feat-inspired-by-kashmir-man-grows-saffron-in-his-indore-house-3270139",
+    "ImageUrl": "images/news_saffron_3.jpg",
+    "Source": "Deccan Herald"
+  },
+  {
+    "Title": "Growing saffron in heat? This Nagpur couple earns Rs 50 lakh doing it",
+    "Description": "Growing saffron in a city known for its scorching heat may seem impossible, but a Nagpur couple has turned this challenge into a thriving business. In a compact 400-square-foot room, Akshay Holey and Divya Lohakare Holey are cultivating the world’s most expensive spice without using soil or water. Their pioneering aeroponic technique has successfully recreated the cool, misty conditions of Kashmir, yielding remarkable results and generating an annual income of Rs 50 lakh.",
+    "Link": "https://www.business-standard.com/india-news/nagpur-couple-grows-saffron-without-soil-earns-rs-50-lakh-aeroponic-farming-125022000418_1.html",
+    "ImageUrl": "images/news_saffron_4.jpg",
+    "Source": "Business Standard"
+  },
+  {
+    "Title": "Brothers earn Rs 76 lakh profit in just one year of Mushroom farming",
+    "Description": "Siddhant and Sarthak Mehrotra, two brothers from Ramnagar, have built a highly successful mushroom farming business in just one year. Their remarkable venture, Vardhman Agro, made a net profit of Rs. 76 lakh in its first year, demonstrating that with the right idea, proper planning, and hard work, even a small-scale business can grow incredibly.",
+    "Link": "https://timesofindia.indiatimes.com/etimes/trending/brothers-earn-rs-76-lakh-profit-in-just-one-year-of-mushroom-farming/articleshow/115422507.cms",
+    "ImageUrl": "images/news_mushroom_2.jpg",
+    "Source": "Time of India"
+  }
+]
